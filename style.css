@@ -1,0 +1,13 @@
+body {
+  min-width: 1000px;
+  height: 10000px;
+}
+
+div {
+  position: sticky;
+  top: 0;
+  padding: 1rem;
+  background-color: #eee;
+}
+  
+  
